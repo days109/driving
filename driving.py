@@ -11,4 +11,6 @@ elif country == '美國':
 		print('you can drive')
 	else:
 		print('you can not drive')
+else:
+	print('資料庫尚在建立中....')
 
